@@ -1,0 +1,102 @@
+/* background{
+    width: 100%;
+    height: 300px;
+    background-image: url('https://picsum.photos/300/100');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+} */
+
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    font-size: 25px;
+}
+
+.header{
+    background: #f2f2f2;
+    border: none;
+    height: 70px;
+    position: relative;
+    text-align: center;
+}
+ .start{
+    display: flex;
+    align-items: start;
+    justify-content: start
+ }
+
+ .container {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+
+ .centered {
+    position: absolute;
+    top: 22%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px
+  }
+  
+  .centeredsecond{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px
+  }
+
+  .centeredthird{
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px
+  }
+
+  .centeredimg{
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .luxuryinterior{
+    
+  }
+
+  .luxury{
+    position: absolute;
+    top: 2300%;
+    left: 20%;
+    font-size: 60px;
+  }
+
+ .luxuryimg{
+  position: absolute;
+  top: 2600%;
+  left: 20%;
+  width: 403px;
+  height: 398px;
+ }
+
+ .luxurydva{
+  position: absolute;
+  top: 2650%;
+  right: 20px;
+  font-size: 25px;
+ }
+
+.socia{
+  position: absolute;
+  top: 3500%;
+  left: 45%;
+  font-size: 50px;
+}
